@@ -1,4 +1,4 @@
-# dual_simplex
+# Dual Simplex Method
 Dual simplex method for LP relaxation of Set Cover Problem.
 
 ## How to run
